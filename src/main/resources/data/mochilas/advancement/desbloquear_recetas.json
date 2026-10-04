@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mochilas:mochila_white",
+      "mochilas:mochila_orange",
+      "mochilas:mochila_magenta",
+      "mochilas:mochila_light_blue",
+      "mochilas:mochila_yellow",
+      "mochilas:mochila_lime",
+      "mochilas:mochila_pink",
+      "mochilas:mochila_gray",
+      "mochilas:mochila_light_gray",
+      "mochilas:mochila_cyan",
+      "mochilas:mochila_purple",
+      "mochilas:mochila_blue",
+      "mochilas:mochila_brown",
+      "mochilas:mochila_green",
+      "mochilas:mochila_red",
+      "mochilas:mochila_black"
+    ]
+  }
+}

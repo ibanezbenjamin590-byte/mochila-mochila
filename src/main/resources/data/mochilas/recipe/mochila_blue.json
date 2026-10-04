@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:chest",
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:string",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:blue_bundle",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "mochila": 1
+      },
+      "minecraft:custom_name": {
+        "text": "Mochila azul",
+        "italic": false
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

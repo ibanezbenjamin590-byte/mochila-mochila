@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "mochilas",
+  "version": "${version}",
+  "name": "Mochilas",
+  "description": "Mochilas de colores: clic derecho con la mochila en la mano abre un menu de 54 slots.",
+  "authors": [],
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.mochilas.MochilasMod"]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

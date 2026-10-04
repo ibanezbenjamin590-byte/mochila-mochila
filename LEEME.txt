@@ -1,0 +1,3 @@
+MOCHILAS (mod de Fabric para Minecraft 26.1.x) - se compila gratis en GitHub, sin instalar nada.
+Sube TODO el contenido de esta carpeta (incluida .github) a un repositorio nuevo de GitHub;
+GitHub compila solo y en la pestana Actions descargas el .jar.
